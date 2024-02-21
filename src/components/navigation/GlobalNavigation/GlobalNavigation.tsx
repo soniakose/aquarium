@@ -1,3 +1,4 @@
+import 'src/styles/antd.min.css'
 import 'src/styles/_variables.css'
 import './global-navigation.css'
 import { ITreeData, Layout } from 'src/components'
